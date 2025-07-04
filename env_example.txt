@@ -1,0 +1,10 @@
+# OpenAI API 설정
+OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_BASE=https://api.openai.com/v1
+
+# 벡터 DB 설정
+VECTOR_DB_PATH=./vector_db
+
+# 청킹 설정
+CHUNK_SIZE=500
+CHUNK_OVERLAP=50 
